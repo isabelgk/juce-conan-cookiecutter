@@ -7,7 +7,7 @@
 - [conan](https://conan.io/)
 - [cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/)
 
-Get requirements via package managers:
+Get requirements via package managers. For example, on Mac:
 ```shell
 brew install cmake ninja
 pip install conan cookiecutter
