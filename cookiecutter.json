@@ -1,0 +1,15 @@
+{
+  "project_name": "My Cool Plugin",
+  "plugin_name": "{{ cookiecutter.project_name.replace(' ', '').replace('-', '').lower().capitalize() }}",
+  "plugin_code": "{{ cookiecutter.plugin_name[:4] }}",
+  "author_name": "Isabel Kaspriskie",
+  "conan_name": "juce",
+  "manufacturer_code" : "A four-character manufacturer ID with at least one upper-case character",
+  "author_email": "mail@isabelgk.com",
+  "cpp_standard": ["11", "14", "17", "20"],
+  "uses_juce_header": "y",
+  "is_audio_effect": "n",
+  "has_sidechain": "n",
+  "is_midi_effect": "n",
+  "is_instrument": "y"
+}

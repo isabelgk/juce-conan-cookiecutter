@@ -1,0 +1,4 @@
+sources:
+  "6.1.6":
+    url: "https://github.com/juce-framework/JUCE/archive/refs/tags/6.1.6.tar.gz"
+    sha256: "50aada30946fedbda2470b9e72b3f6964f9449f762449a42b30264c22ffd16d6"

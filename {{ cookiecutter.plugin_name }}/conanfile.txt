@@ -1,0 +1,6 @@
+[requires]
+juce/6.1.6@{{ cookiecutter.conan_name }}/testing
+catch2/2.13.9
+
+[generators]
+cmake
