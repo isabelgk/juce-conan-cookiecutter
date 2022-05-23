@@ -16,5 +16,5 @@ pip install conan cookiecutter
 ## Use
 
 ```shell
-cookiecutter gh:isabelgk/juce-cookiecutter
+cookiecutter gh:isabelgk/juce-conan-cookiecutter
 ```
