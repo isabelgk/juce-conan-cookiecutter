@@ -18,7 +18,7 @@
 {{ cookiecutter.plugin_name.capitalize() }}Processor::~{{ cookiecutter.plugin_name.capitalize() }}Processor() {}
 
 const juce::String {{ cookiecutter.plugin_name.capitalize() }}Processor::getName() const {
-    return Jucecookiecutter.plugin_name;
+    return JucePlugin_Name;
 }
 
 bool {{ cookiecutter.plugin_name.capitalize() }}Processor::acceptsMidi() const {
